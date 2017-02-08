@@ -1,0 +1,30 @@
+{
+  "name": "max-ui",
+  "version": "1.0.0",
+  "description": "angularJS 1.x ui template featuring webpack & ui-router",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run start",
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DesignByMax/max-ui.git"
+  },
+  "keywords": [
+    "[angular1.x",
+    "ui",
+    "webpack",
+    "ui-router]"
+  ],
+  "author": "Max Sheikhziadeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DesignByMax/max-ui/issues"
+  },
+  "homepage": "https://github.com/DesignByMax/max-ui#readme",
+  "devDependencies": {
+    "eslint": "^2.0.0-rc.1",
+    "node-sass": "^4.5.0"
+  }
+}
